@@ -35,4 +35,9 @@ script:
   - bin/fetch-configlet
   - bin/configlet lint .
   - cmake -G "Unix Makefiles"
+<<<<<<< HEAD
   - make
+=======
+  - make
+  
+>>>>>>> parent of a36f6b9... Delete .travis.yml
